@@ -3,9 +3,11 @@ We Here, Effa Solomon1
 =======
 We here
 <<<<<<< HEAD
-<<<<<<< HEAD
+Aubrey Mphatso Chinkunda
+=======
 Francis Sambani
 yeah yeah
+<<<<<<< HEAD
 =======
 Aubrey Chinkunda
 >>>>>>> 0990c05fc5c40c9576099d27f0762315564dbde2
@@ -13,3 +15,8 @@ Aubrey Chinkunda
 Mwabi Lungu
 >>>>>>> d4b73dffbc0738e49852cbca45366b5ec886f380
 >>>>>>> 74f0475fb3f50f1785576f95b43bfef47448bd1d
+=======
+
+wassup wassup
+>>>>>>> 6859c77843ac27c6feba7c41a9de6a0d3ae849b2
+>>>>>>> ca64427e65d70b8cb73ef6ed37efb6d8950cbccd
