@@ -1,11 +1,2 @@
 We here
-<<<<<<< HEAD
-<<<<<<< HEAD
-Francis Sambani
-yeah yeah
-=======
-Aubrey Chinkunda
->>>>>>> 0990c05fc5c40c9576099d27f0762315564dbde2
-=======
-Mwabi Lungu
->>>>>>> d4b73dffbc0738e49852cbca45366b5ec886f380
+Aubrey Mphatso Chinkunda
