@@ -37,6 +37,10 @@ Chief Chief
 Linda Mission
 >>>>>>> 8699eb596ea96fedef29dc0b162be24abbb7e130
 
+<<<<<<< HEAD
 Effa
 
 pang'onopang'ono
+=======
+Effa ft Chimz
+>>>>>>> 1f96d298925ab34d6f289be6081554013ebac29b
